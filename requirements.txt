@@ -1,0 +1,8 @@
+# Application dependencies (installed by Streamlit Community Cloud too).
+# Floors are the versions this project is developed and tested against;
+# newer compatible releases are allowed.
+streamlit>=1.65
+pandas>=2.0
+plotly>=5.18
+pyserial>=3.5
+pytest>=7.0
